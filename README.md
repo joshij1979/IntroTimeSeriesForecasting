@@ -3,3 +3,4 @@ Public GitHub repo for the YouTube video series [Introduction to Time Series For
 
 
 - [Introduction to Time Series Forecasting with R - Part 1](https://youtu.be/X0W2_RAm7C8)
+- [Introduction to Time Series Forecasting with R - Part 2](https://youtu.be/7aMJL6odSkQ)
